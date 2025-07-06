@@ -147,3 +147,11 @@ Watch a walkthrough of the **Savvy** app in action:
 ▶️ [Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1Lmywf6zBik9U5o5n1nwP9AgltpjU85cg/view?usp=drive_link)
 
 > The video highlights core features such as the chatbot, budgeting, predictions, and transaction management.
+
+## 🧩 Prototype
+
+Explore the interactive design prototype of the **Savvy** mobile application:
+
+🎨 [View Figma Prototype](https://www.figma.com/design/G8Ts11AqXvyYsj2lYGBMlo/Finance-Management-Mobile-App-UI-UX-Kit-for-Budget-Tracker-Financial-Prototype-Design-(Community)-(Copy)?node-id=7136-2057&t=o63dS5CLB5ZbFlLB-0)
+
+> This prototype shows the app’s UI/UX flow, including login, transactions, insights, budget tracking, and goal management.
