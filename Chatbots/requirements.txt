@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+langchain
+langchain-fireworks
+faiss-cpu
+pydantic
+pandas      
+PyMuPDF
+        

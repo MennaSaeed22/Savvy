@@ -1,0 +1,14 @@
+# Count these in language stats
+*.py linguist-detectable
+*.dart linguist-detectable
+*.ipynb linguist-detectable
+
+# Hide everything else from language stats
+*.c linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+*.cxx linguist-vendored
+*.cc linguist-vendored
+*.cmake linguist-vendored
+*CMakeLists.txt linguist-vendored

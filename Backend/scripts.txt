@@ -1,0 +1,25 @@
+1- create virtual enviroment
+python -m venv venv
+
+2- Activate it
+venv\Scripts\Activate
+
+3- download requirements
+pip install -r requirements.txt
+
+4- Run 
+python -m uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+
+--host 0.0.0.0: allows any device on the same network to access the application.
+
+5- in cmd write
+ipconfig => search for IPv4 Address. (under Wireless LAN adapter Wi-Fi)
+
+6- in broswer write http://<your-ip-address>:8000/docs
+swagger will open
+
+7- use http requests and tokens to access database throw fastapi in flutter 
+(in this way we do not need to deal with supabase directly)
+
+use http://10.0.2.2:8000/...          (for andriod emulator)
+or  http://<your-ip-address>:8000/... (for physical device)
